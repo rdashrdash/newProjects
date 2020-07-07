@@ -1,0 +1,2 @@
+First notepad file
+Second line in file2
